@@ -14,8 +14,6 @@
  * limitations under the License.
  */
 
-package org.cyanogenmod.hardware;
-
 import android.os.SystemProperties;
 
 /**
