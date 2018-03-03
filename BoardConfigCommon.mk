@@ -26,6 +26,9 @@
 # SPRD hardware
 BOARD_USES_SPRD_HARDWARE := true
 
+# Let the world know we are building for a spreadtrum device
+TARGET_BOARD_SOC_VENDOR := sprd
+
 # Graphics
 USE_OPENGL_RENDERER := true
 
